@@ -2,6 +2,6 @@
 
 Port Switch -> [[L4]] 스위치
 TCP/IP Switch -> [[L3]] 스위치 
-MAC switch -> [[L2]] 스위치 ([[L2 Access Switch]])
+MAC switch -> [[L2]] 스위치 ([[L2 Access Switch]]) ([[L2 Distribution Switch]])
 
 [[BroadCast]]
